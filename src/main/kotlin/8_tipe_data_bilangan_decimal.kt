@@ -1,5 +1,5 @@
 //Tipe data bilangan decimal
-fun main(args: Array<String>) {
+fun main() {
     val maxFloat: Float = 9.123456789f
     val maxDouble: Double = 9.123456789
 
