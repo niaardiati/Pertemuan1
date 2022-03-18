@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     // split() and joinToString()
     // Morse code decoder
     // the string which we want to decode
