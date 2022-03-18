@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val myName: String = "Nia Ardiati"
     for(chr in myName){
         print(chr)
