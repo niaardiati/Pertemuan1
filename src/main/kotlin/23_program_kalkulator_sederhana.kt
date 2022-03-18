@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     //Simple calculator
     println("Welcome to calculator")
     println("Enter the first number:")
