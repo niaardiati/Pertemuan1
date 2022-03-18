@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     //Parrot program
     println("Hi I'm Lora, the virtual parrot, and i love to repeat!");
     println("Type something in: ");
