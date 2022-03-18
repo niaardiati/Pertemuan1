@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     //Character di Kotlin adalah sebagai objek yang memiliki fungsi anggota seperti isLowerCase(), isDigit(),toUpperCase(), toLowerCase(), toString() dan lainnya.
     var charA : Char = 'A'
     //println(charA == 65)
