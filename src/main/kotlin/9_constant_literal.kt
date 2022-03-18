@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val floatLiteral : Float = 178.95F //Literal Float
     println("Contoh Literal Float : " + floatLiteral)
     val oneBillion: Long = 1000000000L //Literal Long
