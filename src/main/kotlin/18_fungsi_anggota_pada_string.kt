@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val s = "Rhinopotamus"
     println(s.startsWith("rhin"))
     println(s.endsWith("tamus"))
