@@ -1,5 +1,5 @@
 //Konversi Eksplisit
-fun main(args: Array<String>) {
+fun main() {
     val valInt: Int = 1
     val valSum: Long = 3L + valInt //konversi implisit
     println("Konversi variabel valInt secara implisit : " + valSum)
