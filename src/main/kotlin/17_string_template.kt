@@ -1,5 +1,5 @@
 //String Template
-fun main(args: Array<String>) {
+fun main() {
     val a = 7
     val b = 8
     val c = a + b
